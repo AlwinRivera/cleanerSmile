@@ -33,6 +33,7 @@
 .wrapper-dropdown-3 span.selected-country {
     position: relative;
     padding-top: 5px;
+    margin-right: .50rem;
 }
 
 .wrapper-dropdown-3:focus {
@@ -376,6 +377,15 @@ section.navigation {
     .top-border-blue {
         border-top: 2px solid transparent;
     }
+    .m-mtop90 {
+        margin-top: 0 !important;
+    }
+    .m-mtop40 {
+        margin-top: 24px !important;
+    }
+    img.home-packshot {
+        margin-top: -224px !important;
+    }
 }
 @media screen and (max-width:375px) and (min-width:300px) {
  h1.mastheadstrap {
@@ -475,7 +485,7 @@ h1 ul {
 .content .xxxxxxl-text{
     font-size: 24px!important;
 }
-.group .m1c1 span{
+.display-custom-16{
     font-size:16px;
 }
 }
